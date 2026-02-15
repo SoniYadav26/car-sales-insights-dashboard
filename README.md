@@ -3,7 +3,7 @@
 The objective of this project is to analyze car sales data and create an interactive dashboard using Power BI. This helps stakeholders understand sales performance, revenue trends, customer preferences, and regional performance to make better business decisions.
 
 ## Dataset used
-- <a href="">Dataset</a>
+- <a href="https://github.com/SoniYadav26/car-sales-insights-dashboard/blob/main/Car%20Sales.xlsx">Dataset</a>
 
 ## Technical Implementation
   ## Tools Used
@@ -38,7 +38,7 @@ Donut Charts
 Bar Charts
 Geo Map Visualization
 
-- Dashboard Interaction <a href="https://github.com/ritikbh193/Data-Analytics-with-Excel/blob/main/Dashboard_Image.png">View Dashboard</a>
+- Dashboard Interaction <a href="https://github.com/SoniYadav26/car-sales-insights-dashboard/blob/main/Dashboard_img.png">View Dashboard</a>
 
 ## Process
 - Imported Excel dataset into Power BI.
@@ -50,7 +50,8 @@ Geo Map Visualization
 
 ## Dashboard
 
-![Screenshot (495)](https://github.com/user-attachments/assets/17a62479-5cdc-4be7-9373-f264201d276e)
+<img width="1312" height="733" alt="Dashboard_img" src="https://github.com/user-attachments/assets/2580483d-21f7-464d-9925-e45f288aa685" />
+
 
 ## Project Insight
 - The company generated $371.2M YTD total sales in 2023 with a 23.6% YoY growth, indicating strong business expansion compared to the previous year.
