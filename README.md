@@ -17,26 +17,29 @@ Power Query
 
 Created a Calendar Table with Year, Month, Week, and Date hierarchy.
 Built relationships between fact table and date dimension.
+
 Implemented Time Intelligence functions such as:
-TOTALYTD()
-SAMEPERIODLASTYEAR()
-CALCULATE()
-DATEADD()
+TOTALYTD() |
+SAMEPERIODLASTYEAR() |
+CALCULATE() |
+DATEADD() | 
+
 Developed advanced KPIs:
-YTD Sales
-PYTD Sales
-YoY Growth %
-MTD Sales
-Sales Difference
-Average Sales Price
-Designed dynamic slicers and interactive page navigation.
-Implemented company-wise and region-wise breakdown analysis.
+YTD Sales | 
+PYTD Sales | 
+YoY Growth % |
+MTD Sales |
+Sales Difference |
+Average Sales Price |
+Designed dynamic slicers and interactive page navigation |
+Implemented company-wise and region-wise breakdown analysis |
+
 Built interactive visuals including:
-KPI Cards
-Weekly Trend Line Chart
-Donut Charts
-Bar Charts
-Geo Map Visualization
+KPI Cards |
+Weekly Trend Line Chart |
+Donut Charts |
+Bar Charts |
+Geo Map Visualization |
 
 - Dashboard Interaction <a href="https://github.com/SoniYadav26/car-sales-insights-dashboard/blob/main/Dashboard_img.png">View Dashboard</a>
 - Details of Dashboard  <a href="https://github.com/SoniYadav26/car-sales-insights-dashboard/blob/main/Dashboard_detail.png">Details of Sales</a>
