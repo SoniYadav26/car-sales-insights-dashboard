@@ -8,9 +8,9 @@ The objective of this project is to analyze car sales data and create an interac
 ## Technical Implementation
   ## Tools Used
 
-Power BI
-MS Excel
-DAX
+Power BI |
+MS Excel |
+DAX |
 Power Query
 
    ## Data Modeling & Engineering
