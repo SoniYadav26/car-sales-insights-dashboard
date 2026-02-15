@@ -39,6 +39,7 @@ Bar Charts
 Geo Map Visualization
 
 - Dashboard Interaction <a href="https://github.com/SoniYadav26/car-sales-insights-dashboard/blob/main/Dashboard_img.png">View Dashboard</a>
+- Details of Dashboard  <a href="https://github.com/SoniYadav26/car-sales-insights-dashboard/blob/main/Dashboard_detail.png">Details of Sales</a>
 
 ## Process
 - Imported Excel dataset into Power BI.
