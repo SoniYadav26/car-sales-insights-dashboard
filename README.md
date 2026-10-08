@@ -2,8 +2,9 @@
 ## Project Objective
 The objective of this project is to analyze car sales data and create an interactive dashboard using Power BI. This helps stakeholders understand sales performance, revenue trends, customer preferences, and regional performance to make better business decisions.
 
-## Dataset used
-- <a href="https://github.com/SoniYadav26/car-sales-insights-dashboard/blob/main/Car%20Sales.xlsx">Dataset</a>
+## Dashboard
+
+<img width="1312" height="733" alt="Dashboard_img" src="https://github.com/user-attachments/assets/2580483d-21f7-464d-9925-e45f288aa685" />
 
 ## Technical Implementation
   ## Tools Used
@@ -52,9 +53,8 @@ Geo Map Visualization |
 - Built interactive visualizations (charts, KPIs, slicers).
 - Designed a dynamic dashboard for better business insights.
 
-## Dashboard
-
-<img width="1312" height="733" alt="Dashboard_img" src="https://github.com/user-attachments/assets/2580483d-21f7-464d-9925-e45f288aa685" />
+## Dataset used
+- <a href="https://github.com/SoniYadav26/car-sales-insights-dashboard/blob/main/Car%20Sales.xlsx">Dataset</a>
 
 
 ## Project Insight
